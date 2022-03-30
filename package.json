@@ -1,7 +1,7 @@
 {
-    "name": "ShiraoriBOT-Md",
+    "name": "krizynxv1",
     "version": "0.4.5",
-    "description": "Simle Bot WhatsApp with Baileys Multi Device",
+    "description": "SUBSCRIBE CHANNEL HOKEN BEUSZ",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -22,21 +22,22 @@
         "whatsapp",
         "ShiraoriBOT",
         "wabot-aq"
+        "krizyn-main"
     ],
-    "homepage": "https://github.com/ilmanhdyt/ShiraoriBOT-Md",
+    "homepage": "https://github.com/frostkri/krizynxv1",
     "author": {
-        "name": "Ilman"
+        "name": "krizyn"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ilmanhdyt/ShiraoriBOT-Md.git"
+        "url": "git+https://github.com/frostkri/krizynxv1.git"
     },
     "bugs": {
-        "url": "https://github.com/ilmanhdyt/ShiraoriBOT-Md/issues"
+        "url": "https://github.com/frostkri/krizynxv1/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys-md": "github:ilmanhdyt/baileys#multi-device",
+        "@adiwajshing/baileys-md": "github:frostkri/baileys#multi-device",
         "awesome-phonenumber": "^2.64.0",
         "axios": "^0.24.0",
         "@bochilteam/scraper": "^0.0.1",
