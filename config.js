@@ -28,12 +28,12 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = '⏳ 𝙒𝘼𝙄𝙏, 𝙎𝙀𝘿𝘼𝙉𝙂 𝘿𝙄𝙋𝙍𝙊𝙎𝙀𝙎...'
-global.packname = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-global.author = 'by ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜× '
+global.packname = '︶꒷꒦乂REX-MD乂꒦꒷︶'
+global.author = 'by K🐦 '
 
-global.wm = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-global.botwm = '𝙆𝙧𝙞𝙯𝙮𝙣𝙈𝙙×͜×'
-global.watermark = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
+global.wm = '︶꒷꒦乂REX-MD乂꒦꒷︶'
+global.botwm = '︶꒷꒦乂REX-MD乂꒦꒷︶'
+global.watermark = '︶꒷꒦乂REX-MD乂꒦꒷︶'
 global.media = fs.readFileSync('./src/krizyn.jpg')
 global.donasi = fs.readFileSync('./src/payment.jpg')
 
