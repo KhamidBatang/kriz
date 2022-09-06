@@ -10,7 +10,7 @@ Kalian bisa mendukung saya agar bot ini tetap aktif selalu
 Berapapun donasi kalian akan sangat berarti 👍
 
 Contact person Owner:
-wa.me/6281390492911 (Owner)`
+wa.me/6281947707409 (Owner)`
 let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/f2a537430f94d0d163997.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
@@ -27,8 +27,8 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
            },
                {
              callButton: {
-               displayText: 'Telkomsel',
-               phoneNumber: '+62 813-9049-2911'
+               displayText: 'XL',
+               phoneNumber: '+62 819-4770-7409'
              }
            },           
                {
